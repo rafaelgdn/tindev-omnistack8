@@ -1,7 +1,7 @@
-# GoBarber - Built with NodeJS, ReactJS and React Native.
+# tinDev - Built with NodeJS, ReactJS and React Native.
 
-Aplicação para marcação de agendamentos de uma barbearia, foi criada durante o Bootcamp GoStack 8.0 da rocketseat e
-como esse projeto foi criado com o intuito de aprendizado e nunca vai entrar em produção, eu preferi colocar o backend, front web e mobile todos no mesmo repositorio.
+Tinder para desenvolvedores criado com o objetivo de estudos, foi feita durante a semana OmniStack e
+como esse projeto nunca vai entrar em produção, eu preferi colocar o backend, front web e mobile todos no mesmo repositorio.
 
 ## Como executar o projeto
 
@@ -13,29 +13,6 @@ no frontend utilize o comando <strong>yarn start</strong>.
  - NodeJS
  - ReactJS
  - React Native
- - Redux
- - Redux Saga
  - Axios
- - Styled Components
- - Yup
- - Reactotron Redux/Saga
- - React Router Dom
- - Polished
- - Immer
- - @rocketseat/unform
- - History
- - Prop-types
+ - WebSocket
  - e muitas outras...
- 
- ## Telas do projeto
- ### Login
- ![Login](screens/login.png)
- 
- ### Cadastro
- ![Cadastro](screens/cadastro.png)
- 
- ### Dashboard
- ![Dashboard](screens/dashboard.png)
- 
- ### Perfil
- ![Perfil](screens/perfil.png)
